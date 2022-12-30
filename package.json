@@ -32,7 +32,7 @@
   "devDependencies": {
     "eslint": "^5.15.1",
     "express": "^4.16.4",
-    "express-pouchdb": "^4.1.0",
+    "express-pouchdb": "^4.2.0",
     "mocha": "^6.0.2"
   }
 }
